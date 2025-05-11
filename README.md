@@ -48,7 +48,7 @@ O objetivo é reunir meus projetos acadêmicos e pessoais, aplicar boas prática
 
 **Thiago de Castro Alencar Antunes**  
 Estudante de TI e programação | Brasília - DF  
-Email:thiago.antunes@sempreceub.com
+Email: thiago.antunes@sempreceub.com
 
 ---
 
