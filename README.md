@@ -38,7 +38,7 @@ O objetivo é reunir meus projetos acadêmicos e pessoais, aplicar boas prática
 ## 🔗 Links Importantes
 
 - 🌐 Site Pessoal: [Acessar](https://sites.google.com/view/portfolio-thiago/p%C3%A1gina-inicial)
-- 📁 Repositório no GitHub: [Este repositório](coloque_o_link_do_repositorio_aqui)
+- 📁 Repositório no GitHub: [Este repositório](https://github.com/thiago10vitoria/portfolio-hub)
 - 💼 Perfil LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/thiago-castro-893509365/?trk=opento_sprofile_details)
 - 📹 Apresentação em vídeo: [Link do vídeo no YouTube](coloque_o_link_do_video_aqui)
 
